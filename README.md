@@ -10,12 +10,11 @@ I fundamentally believe in the power of curiosity and continuous skill expansion
 
 In the course of my projects and learning, I regularly engage with a set of reliable and powerful technologies. The following represents a selection of those I employ most consistently:
 
-*   **Web & HTTP Communication:** `requests` for handling HTTP operations with elegance and efficiency.
-*   **Web Framework:** `Django` for developing structured, scalable, and secure backend systems and web applications.
-*   **Desktop Development:** `tkinter` for building intuitive graphical user interfaces for desktop software.
-*   **Automation & Bots:** `telebot` (pyTelegramBotAPI) as a foundational library for creating feature-rich Telegram bots.
-*   **Code Quality & Maintainability:** The `typing` module for implementing type hints, enhancing code clarity, documentation, and error prevention.
-*   This list is indicative, not exhaustive. It is continually evolving as I integrate new libraries and frameworks like `SQLAlchemy`, `FastAPI`, `pytest`, and others into my repertoire based on project requirements.
+*   **Web & HTTP Communication**
+*   **Web Framework**
+*   **Desktop Development**
+*   **Automation & Bots**
+*   **Code Quality & Maintainability**
 
 ## Experience & Growth Trajectory
 

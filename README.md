@@ -33,8 +33,3 @@ I hold a deep respect and admiration for the global **Open Source software commu
 I welcome professional dialogue, constructive feedback on my projects, and conversations about technology trends and collaborative opportunities. Feel free to explore my repositories or reach out.
 
 **Thank you for taking the time to visit my profile. Your interest is appreciated.**
-
-
-<div align="center">
-  <img src="Banner_2.png" alt="Thorium-AI Website Screenshot" width="1000">
-</div>

@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile
+<div align="center">
+  <img src="Banner_1.png" alt="Thorium-AI Website Screenshot" width="1000">
+</div>
 
 **A warm and enthusiastic welcome to all visitors of my digital space.** I am a dedicated Python developer whose primary drive stems from a profound fascination with the vast and varied landscape of programming.
 
@@ -31,3 +33,8 @@ I hold a deep respect and admiration for the global **Open Source software commu
 I welcome professional dialogue, constructive feedback on my projects, and conversations about technology trends and collaborative opportunities. Feel free to explore my repositories or reach out.
 
 **Thank you for taking the time to visit my profile. Your interest is appreciated.**
+
+
+<div align="center">
+  <img src="Banner_2.png" alt="Thorium-AI Website Screenshot" width="1000">
+</div>

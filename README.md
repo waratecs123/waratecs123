@@ -10,9 +10,9 @@
 
 </div>
 
----
 
-## 🔥 My Philosophy
+
+## My Philosophy
 
 > *“I don't just write backend code — I engineer the central nervous system of applications. The place where raw logic meets relentless reliability, and where scalability is not a feature, but a fundamental law.”*
 
@@ -22,7 +22,7 @@ I am drawn to the profound challenge of building the **engine** that makes every
 
 ---
 
-## 🧠 My Journey & Craft
+## My Journey & Craft
 
 With **~1 year of focused commercial development in Python**, I’ve immersed myself in the craft of backend engineering. This period has been a deliberate deep dive into:
 
@@ -34,7 +34,7 @@ I treat technology as a lifelong pursuit of mastery, not just a job.
 
 ---
 
-## ⚖️ My Take on the AI Landscape
+## My Take on the AI Landscape
 
 Let’s be real: **The current AI hype feels like a bubble.** 
 
@@ -44,7 +44,7 @@ My focus is steadfast: building **tangible, logical systems that deliver concret
 
 ---
 
-## 🌍 Open Source Ethos
+## Open Source Ethos
 
 I believe in the open-source movement not as a trend, but as the **beating heart of software progress.** It’s a collective intelligence, a shared climb towards better solutions. I am committed to contributing—through code, documentation, and collaboration—to this ecosystem that gives so much to all of us.
 
@@ -56,8 +56,8 @@ I believe in the open-source movement not as a trend, but as the **beating heart
 
 I'm always open to thoughtful conversations about **system design, architectural patterns, and the pursuit of backend excellence.**
 
-📂 **Explore my repositories to see my craft in action.**  
-💬 **Reach out for a dialogue on building the foundations of tomorrow.**
+**Explore my repositories to see my craft in action.**  
+**Reach out for a dialogue on building the foundations of tomorrow.**
 
 </div>
 
